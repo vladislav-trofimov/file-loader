@@ -1,0 +1,6 @@
+dist/
+logs/
+uploads/
+coverage/
+.env
+.env.test
